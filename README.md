@@ -1,101 +1,53 @@
-# 👋 Hi, I'm Shohail Mahmud
+# Shohail Mahmud
 
-### 🇧🇩 Vibe Coder from Bangladesh  
-AI Explorer • Experimental Builder • Clean UI Enthusiast
+Bangladeshi Web Developer | AI-Assisted Builder | Vibe Coder  
+GitHub: shohail-mahmud
 
-I build things for curiosity, happiness, and real-world impact.  
-I experiment with AI tools, modern UI systems, and fast web deployment workflows.
+Hi, I'm Shohail Mahmud from Bangladesh 🇧🇩.  
+I build modern, fast, and clean websites using AI-powered tools and minimal design systems.
 
-> I don’t just write code — I build with vibe, speed, and intention.
-
----
-
-## 🚀 About Me
-
-- 🌌 Started with a **Solar System website**
-- 🏫 Built **2 real-use websites for my school**
-- 🤖 Love discovering and experimenting with new AI tools
-- 🎨 Passionate about **simple, minimal, clean UI**
-- ⚡ Build fast, modern websites using AI-assisted workflows
-- 🧠 Learn by building — always
-
-I create both:
-- 🎉 Fun projects  
-- 📚 Informative & educational projects  
-- 🛠 Solutions to real problems people face  
+I enjoy experimenting with new AI platforms, learning by building, and creating projects that are both educational and useful in real life.
 
 ---
 
-## 🧰 My Stack & Workflow
+## 🚀 What I Build
 
-### 🤖 AI-Powered Development
-- Lovable.ai  
-- ChatGPT & other AI platforms  
-- AI-assisted coding & idea prototyping  
+- Educational websites (including a Solar System project)
+- Real-use school websites
+- Modern responsive web projects
+- Informative and problem-solving web platforms
 
-### 🎨 UI & Components
-- 21st.dev  
-- MagicUI  
-- Modern component libraries  
-- Clean, minimal design systems  
-
-### 🚀 Deployment
-- Vercel  
-- Fast static & modern web apps  
+I focus on simplicity, performance, and clean user experience.
 
 ---
 
-## 🛠 What I Enjoy Building
+## 🛠 Tech Stack
 
-- 🌍 Educational websites  
-- 🧩 Real-world problem-solving tools  
-- ⚡ Fast, AI-enhanced web apps  
-- 🧪 Experimental “vibe-coded” projects  
-- 🎨 Clean UI-focused digital experiences  
+**AI Workflow:**  
+Lovable.ai • ChatGPT • AI-assisted development tools  
 
----
+**UI Systems:**  
+21st.dev • MagicUI • Modern component libraries  
 
-## 🌊 My GitHub Vibe
-
-This is my creative lab.
-
-You’ll see:
-- AI-assisted experiments  
-- Clean and minimal websites  
-- Fast iteration projects  
-- Learning-in-public builds  
-- Real-use applications  
-
-Not everything is perfect.  
-Everything is built with intention.
+**Deployment:**  
+Vercel  
 
 ---
 
-## 📌 Featured Projects (Pinned Section Idea)
+## 🎯 Focus Areas
 
-- 🌌 **Solar System Website** – My first interactive educational build  
-- 🏫 **School Website #1** – Real-use project  
-- 🏫 **School Website #2** – Real-use project  
-- 🤖 **AI-Powered Experimental Tool** – Built with modern UI components  
-- ⚡ **Minimal Modern Web App** – Clean design + AI workflow  
-
----
-
-## 📈 GitHub Stats
-
-![Shohail's GitHub stats](https://github-readme-stats.vercel.app/api?username=shohail-mahmud&show_icons=true&theme=dark&hide_border=true)
+- AI-assisted web development  
+- Clean and minimal UI design  
+- Fast, modern websites  
+- Continuous learning through real projects  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-📸 Instagram: [@shohailmahmud09](https://instagram.com/shohailmahmud09)
+GitHub: https://github.com/shohail-mahmud  
+Instagram: https://instagram.com/shohailmahmud09  
 
 ---
 
-## ✨ Philosophy
-
-> Build for happiness.  
-> Experiment with AI.  
-> Solve real problems.  
-> Keep it simple. Keep it clean.
+Build. Experiment. Improve.
