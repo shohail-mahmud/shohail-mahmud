@@ -47,7 +47,7 @@ Vercel
 
 GitHub: https://github.com/shohail-mahmud  
 Instagram: https://instagram.com/shohailmahmud09  
-Gmail: @nirjonpc@gmail.com
+Gmail:nirjonpc@gmail.com
 
 ---
 
